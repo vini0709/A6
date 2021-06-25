@@ -1,7 +1,6 @@
 # A6
 
 Name : Vinishaben Patel
-ID# : 01367795
 A6 : Creating an Interactive Dynamic Table
 
 
